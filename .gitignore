@@ -1,0 +1,15 @@
+# Sistem
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Log
+*.log
+
+# Node (jika nanti dipakai)
+node_modules/
+
+# File sementara
+*.tmp
